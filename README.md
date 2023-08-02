@@ -25,7 +25,10 @@
  </a>
  <br />
  <br />
-<img src="https://www.codewars.com/users/shvetsm/badges/small" />
+ <a href="https://www.codewars.com/users/shvetsm123" target="_blank">
+  <img src="https://www.codewars.com/users/shvetsm123/badges/small" />
+ </a>
+
   
 <br />
 
