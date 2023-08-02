@@ -24,7 +24,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  <br />
-<a href="https://www.codewars.com/users/shvetsm/badges/small" target="_blank"></a>       
+ <br />
+<img src="https://www.codewars.com/users/shvetsm/badges/small" />
+  
 <br />
 
 <!-- About Section -->
