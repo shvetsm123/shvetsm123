@@ -10,28 +10,12 @@
   <samp>
     <a href="mailto:shvetsm123@gmail.com">「 Mail me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Odesa, Ukraine</b> 」
+    「 I am a full stack web developer from <b>Odesa, Ukraine</b> 」
     <br>
     <br>
   </samp>
 </p>
-
-<p align="center">
- <a href="https://shvetsm123.github.io/portfolio/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" />
- </a>
- <a href="https://linkedin.com/in/shvetsm123" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
- <br />
- <br />
- <a href="https://www.codewars.com/users/shvetsm123" target="_blank">
-  <img src="https://www.codewars.com/users/shvetsm123/badges/small" />
- </a>
-
-  
 <br />
-
 <!-- About Section -->
  # About me
  
